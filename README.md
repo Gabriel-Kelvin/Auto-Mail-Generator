@@ -12,7 +12,7 @@ Streamlit: Python framework for creating custom web apps. LangChain: Library for
 
 Clone this repository:
 
-Bash git clone https://github.com/[your_github_username]/automated-email-generator.git Use code with caution. Install dependencies:
+Bash git clone https://github.com/gabriel-kelvin/auto-mail-generator.git Use code with caution. Install dependencies:
 
 Bash pip install streamlit langchain transformers Use code with caution. Note: You may need to install additional dependencies based on the specific LLM you choose.
 
